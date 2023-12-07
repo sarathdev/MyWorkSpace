@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D07C26AE-F1FF-486E-A7E6-96BBE5C97076"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9656F90-85A8-496B-B0F2-763B77BD246C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParentApp/ParentApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E9656F90-85A8-496B-B0F2-763B77BD246C - a13dc41358a09124"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in ParentApp.ContentView.body.getter : some"
+                  moduleName = "ParentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/WorkSpace/ParentApp/ParentApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "E9656F90-85A8-496B-B0F2-763B77BD246C - a13dc41358a09124"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in ParentApp.ContentView.body.getter : some"
+                  moduleName = "ParentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/WorkSpace/ParentApp/ParentApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "E9656F90-85A8-496B-B0F2-763B77BD246C - a13dc41358a090e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in ParentApp.ContentView.body.getter : some"
+                  moduleName = "ParentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/WorkSpace/ParentApp/ParentApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

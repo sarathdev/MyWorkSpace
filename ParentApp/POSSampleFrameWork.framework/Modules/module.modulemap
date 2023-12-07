@@ -1,0 +1,11 @@
+framework module POSSampleFrameWork {
+  umbrella header "POSSampleFrameWork.h"
+  export *
+
+  module * { export * }
+}
+
+module POSSampleFrameWork.Swift {
+  header "POSSampleFrameWork-Swift.h"
+  requires objc
+}
